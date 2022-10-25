@@ -1,6 +1,0 @@
-[Tests]
- [./component]
-  type = RavenPython
-  input = 'testComponent.py'
- [../]
-[]

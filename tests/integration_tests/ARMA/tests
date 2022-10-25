@@ -1,9 +1,0 @@
-[Tests]
-  [./SineArma]
-    type = RavenFramework
-    input = train_sine.xml
-    output = Sine/arma.pk
-    skip = 'requires cross-path prereqs'
-  [../]
-
-[]
